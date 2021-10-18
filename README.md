@@ -1,6 +1,6 @@
 # web-assignments
 
-assignment 1  -  
+assignment 1  -  https://nervous-minsky-57ed29.netlify.app
 assignment 2  -  
 assignment 3  -  
 assignment 4  -  
