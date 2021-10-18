@@ -14,6 +14,6 @@ assignment 6  -  https://hungry-mccarthy-f29571.netlify.app
 
 assignment 7  -  https://gifted-carson-829a2e.netlify.app
 
-assignment 8  -  
+assignment 8  -  https://visitorz-web-app.herokuapp.com/home
 
-assignment 9  -  
+assignment 9  -  https://github.com/y-ahuja/web-assignments
